@@ -1,0 +1,9 @@
+TO DO
+-----
+Fixes:
+Work on random events and message delivery
+Work on war simulation
+
+Tweaks:
+Area-wide intelligence reduces penalties (disease impact, % killed per gen)
+Fix food system (no one is starving)
